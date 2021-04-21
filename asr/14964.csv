@@ -1,0 +1,307 @@
+start,end,text
+0.06,6.33, meantime
+6.72,12.54, i 
+12.81,14.16, hello i 
+15.39,19.83, a really happy to be back here and in this room and at the walker
+19.83,21.42, going to jump in
+22.86,32.16, i have four major projects that have been working on for years first i work at my studio creating software for exhibition exploring different ideas
+32.22,39.84, i teach studio classes that you see away in the department of singers third the ongoing development of processing dorg
+40.2,57.0, and for writing books to support my teaching and processing so to say differently i basically weave together making teaching writing and to building and this presentation will attempt to look those things together so the promise of this talk is to declare that software
+57.33,59.61, dense medium for the visual arts
+59.67,69.03, with as much potential as prior media including film photography and painting this is painfully obvious to many of us but it's confusing an elusive to most people
+70.14,86.19, the five parts of the studio talking about what an artist dido is and what happens there and why that is a sort of a place that sort of artist treated from an we're goin to do studio visit and look at some of my work a very brief history of the software in the arts
+86.61,109.17, talk about my teaching you see and some of the work that the students were doing there and then i'm going to do something that i haven't done before which is to basically go through one project from start to finish to compress about six months of development into just about minutes another to
+109.53,111.45, and we'll see how that goes
+111.54,113.37, we're going to start at the studio
+114.48,117.57, here we have ten sixty six this is vermeer
+117.63,119.13, painting by vermeer
+119.16,121.62, eighteen fifty five
+128.85,137.22, and now after the you know the cameras being used we have more interesting paintings in my opinion this is james ensor eighteen ninety six
+138.33,140.46, tis a match
+141.06,151.71, then we have the area of the photographic documentation so photographing the artist in their studio which has been sort of a conic form in the twentieth century this is lee rosser in nineteen thirty eight in the hoffman studio
+153.66,156.33, and colder in the
+157.14,163.11, so i imagine the inside of my computer to be or one fit to be
+164.13,165.72, let
+169.89,172.08, around that time
+172.35,175.2, helen franklin taller then
+175.89,192.42, so i've show these images for teresa's first to show how the idea of the studious changed over the last few centuries the studio's been around for centuries and houston developed and heliconiae to do so second to show how incredibly different it is to work with physical materials as it is to work with software
+193.08,198.75, the theme has to the present as to simple themes one is how is that
+198.93,219.12, now different and how is it the same so i think the last few images clearly have a different quality than the first romantic paintings it's my hope that one day the photographs of the heroic twenty century painters and sculptors will feel as quaint and as antiquated as the earlier paintings in comparison to what we will do how we will work and how we will change the future
+219.6,231.33, maybe for you these paintings like the one on screen now they possibly feel old fashioned and strange for me though they still hold tremendous power and sort of the weight of that history is still very present
+232.41,238.89, so to the present i'm going to show you some snap shots just taken really informally on my phone when i was over at my friend bosses studio
+238.92,250.02, years old he's been painting making sculpture his entire life he has a studio in los angeles he was a colleague of mine ca for ten years he's just recently retired
+250.35,260.82, in a way that's very similar to the way that i work here you can see a close up you can get some of the sense of the texture but boss is never written a line of code and i've never made a painting
+261.09,264.39, with still a lot of similarities in the way that we think and we do
+265.41,267.81, these are bosses paints or he prefixed
+268.17,273.39, his tapes for the meticulous masking that he does and these are his brushes
+275.07,277.71, the question is what is a soft care studio
+278.07,297.57, and i don't actually need to show you examples of what it is like i needed to see examples of the painters of the sculptures too because you'll know what it is it's you hunched over a laptop possibly in the lobby at io it's a lapful of people clicking away a key it's such a different place in space a lot of it is intellectual out of it is immaterial
+298.2,317.19, so in essence the studio my studio is this computer i mean headphones are actually rearisen to my studio and the computer that i presenting on right now is the most essential element of my studio and rode here to you and this nothing special about this hardware and a short amount of time everything can be transferred to a similar machine
+317.97,339.24, i think the important point to make as i consider the heart of my studio the most important thing even more important than the results in the things will be looking at is the thousands of of files of source code in the digital images that have created over the years and unlike a physical studio the work is not material and it's not ready to be seen as to be pulled from the intangible storage on the machine so that it can be experienced
+339.78,341.31, core of my studio
+341.31,355.35, the processing software and sort of in the spirit of this talk we're going to be running a lot of correctly out of processing rather than showing you pretender works or images of works so i want to start with one piece of software to see
+356.73,367.89, called processing team after six and i'm going to show these images these live running software pieces for between one and two minutes have imagined a theatre i hope you can be in the right state of mind to
+367.98,368.97, look
+369.06,372.36, to enjoy them you need to look closely and think about what's happening
+386.52,391.71, sara little bit too as if i were a aviator were looking at creatures
+392.82,399.0, this work all the work i'm showing you today is a new work it's made in the air twenty thirteen and some of it was finished just
+399.06,403.56, a few weeks ago this piece of all the pieces like mine is the
+403.71,408.06, the most representative of the work that i've been doing in the prior decade
+412.65,418.92, like this that i've been working on they really require a long period of time to get acclimated to the work
+419.43,426.12, this piece begins but it really has no end it continues over time the screen reaches a certain saturation
+426.12,432.12, then at that time it's sort of maintains that balance but the forms are always shifting and moving over time
+434.16,438.45, one time it sometimes one colored dominates to another over time
+438.87,442.38, so pieces meant to be experienced everyday weeks years et cetera
+445.2,448.02, some of the late don actually on the stage a little bit
+448.02,449.94, the image becomes more clear
+454.2,455.49, next one
+457.23,460.65, next were going to look at
+461.52,466.68, peace called yes now which is shown in different variations here at io but just finished recently
+469.95,473.61, about working to software is that you can always change 
+482.22,495.78, the piece was about trying to find what i consider to be the simplest possible algorithm and then to explore that to spend time in reading on it making different versions of it and there's a long story behind how we see what we're seeing now
+496.08,506.49, a lot of reversions behind it but essentially the agate a grid and then to flip a coin and if its heads you draw a line going to the last if it's tales you draw lagging to the right
+506.52,509.34, and these different forms that were seeing
+509.34,513.33, all arrive out of that really simple process which can be done simply on paper
+516.21,517.71, look at
+517.92,522.42, called signal to noise and his version five of that
+533.4,541.68, piece in the stanly of work came out of a show that i worked on all last year i started it actually right after the last o it was likely june through the rest of the year
+542.55,564.0, a century and the idea of the show was to look really closely at works of art in the twentieth century that to me were very striking and to take ideas from those works and to trade on them and to make new works that meant something to me that maybe had a similar idea to those works at that time in their context in place
+564.24,567.9, but for me translating the idea into my context in place
+570.9,576.75, sister it's all about television and they actually take trestle vision signals
+576.81,580.71, and then they make colleges out of those signals directly
+583.35,586.68, you another version of a signal to noise piece
+587.49,592.5, that is formed in a little bit different way this pieces called one hundred per cent great coverage
+617.04,618.78, most show
+620.4,622.29, a piece called network 
+693.87,697.95, the piece that we're going to come back to at the end and look at the steps along the way
+698.28,699.69, so continues
+702.99,710.25, very briefly i want to put on a few ideas from the history of software and this gentleman marshall mc clean
+710.58,719.52, one of his many very quotable statements is we shape our tools and thereafter are tools shape us
+721.02,724.71, and he's not talking about software directly but he might as well be
+725.97,726.99, in
+727.35,733.77, of course you know this moment isn't the first time that people have started to ask questions about software and art
+733.86,749.97, in my opinion many of the ideas that we're talking about here to day i've been asked out for decades here is one particular exhibition that i think is very strong it's one of the first strong exhibitions it's software information technology is new meeting for art
+750.42,766.5, about the exhibition is that focuses on information it's about data and process rather than the art object and it features conceptual artists like john baltasar handshake mintaro along with designers and technologists such as the mithter machine group
+766.5,768.18, and the images from that
+769.83,776.13, a library of books on this topic from that period here we have herbert frances computer graphics computer art
+776.61,781.05, yes right cards the computer in art are distinct computer
+781.23,790.5, this one is free online at orchies or it's really extraordinary kind of document of the time but again the libraries of books like this
+791.34,800.61, i consider to be the birth of software as art to be conceptual this book as one of the most i think the most extraordinary title of a book that i've ever read
+800.79,802.92, that the full thing is the title
+804.48,823.83, and in less alienated essay or like a long form point of view it's actually a collection of materials for i the time sort of taken at the time and so you read through monsieur during this time period i just want to read two very short quotes from it for one
+824.79,828.18, it says conceptual art for me
+828.27,838.65, means work in which the idea is paramount to material form the material form of secondary light weight of time sheep unpretentious and or dematerialized
+838.68,843.0, so soliciting wishes between consent with a small sea
+843.03,847.11, example his own work in which the material forms were often very conventional
+847.62,853.71, the generated by a paramount idea a conceptual or with a capital sea which have more or less described above
+855.66,858.87, this is an example of conceptual one of my favorites
+860.79,879.69, i want to say something really briefly about this extraordinary book by malcolm macula abstracting craft and there is a chapter actually chapter seven in the book about medium and it says a lot about the medium of software which i think it's important to be clear about terms when we were having conversations to go deep
+880.32,884.76, so in defining medium in general he says to give work substance we require a medium
+884.97,900.93, of our hands eyes and tools must be mediated our personal knowledge and skill must be given a habitual setting for practice so according to his definition i think a largely except a definition a medium is two things it's a set of tools plus a material
+901.68,916.02, here he continues quite often the word medium signifies a class of tools and raw materials for example metal working is a medium which includes welders torches hammers and clamps as well as aluminum iron and bronze
+916.11,923.34, because a type of material distinguishes a particular class of tools the ensemble may be referred to on the whole as a medium
+923.79,939.81, so i take that a little bit further into software and for me the definition was software we have programming languages we have software tools we have hardware platforms and we have collaborative version in systems and those things come together to form the medium of software the medium that we work with it
+941.07,956.25, so next section is about teaching i often also don't talk about my teaching i really want to think jar for organizing the coded summit yesterday that was an extraordinary event i hope lot if you were there and i look for you know continuing all that and and things that come out of that meeting
+957.45,974.31, so i started teaching our design students about a decade ago one of the first things i learned is that they have to be excited about programming before they actually have the motivation to do it and so two years ago a colleague of mine can williams and i be compiled or lecture notes and our examples from class and we wrote the book
+974.76,979.41, along with the dutch design studio last forming code in design art architecture
+979.71,996.24, and in order to communicate clearly to the group of students which was primarily our undergraduate students that you can it's a foundation class that we've teaching for many years we broke the kinds of things that software can do in relation to form into these five categories repeat transform
+996.3,998.43, i visualized and simulate
+998.91,1007.1, the truth is that almost all the projects in the book cover more than one of these categories but we found it was a really good infrastructure to begin the conversation
+1007.28,1027.65, so we have these three questions for the book how a software affected the visual arts what is the potential for software as a designer artist while what i want or need to write software and that's a question for each individual of course so the first category repetition a repeat of undiscourageable for each category to give like a wide overview of what software can do and be
+1028.16,1033.11, and a lot of these examples come from folks from 
+1034.58,1036.35, jennifer ten camp
+1036.86,1044.36, this piece is daisy belles from this is a large video projection all the flowers are animated in connecticut
+1045.26,1048.32, a browser piece for by joy
+1051.02,1062.99, these are praeterite pieces that were later cut this is how they were assembled this is a piece called a periodic vertebra by the very many from two thousand eight
+1064.67,1082.4, this is the serpentine gallery pavilion from its demonstration of recurs where you have one form then then continues to repeat on itself until that operation is stopped and the form of the ceiling of this pavilion was formed through realisable recurs on squares
+1083.57,1085.58, he category transform
+1086.87,1097.94, as serious as a bench from two thousand eight transforms where you have sort of geometric model and you manipulated distorted warped in order to create something new
+1099.23,1112.49, this piece by alex released beware this is an example of transacting we actually took the source code of a computer virus and then had each of the characters of the source code represents something different in his geometry was generated from there
+1113.63,1124.4, peace called the last clock by roscoe and you see angela and this is an example of flitting its isle it works like a clock watching a television stream
+1125.36,1135.38, exasperated so the idea of perimeter ising is that instead of making one you make many through adding in different parameters this is a peace by more possess the fair tower
+1135.44,1150.02, and the central diagram is what the one an talk about each color represents a unique pain to the idea and building a building like this is that you have a shew different panels as possible to decrease fabrication cost
+1150.5,1157.79, the premature action cross to be used for great utility as well as for aesthetics and this is manfred more
+1159.11,1164.51, he one carantonan another from the same series from to dolcino
+1165.35,1169.07, shop architects retreating number one from 
+1170.72,1175.61, detail which shows the premier ization using existing in industrial materials
+1176.54,1178.28, civilized
+1178.43,1185.42, been tried i symmetric blocks this is a visualization of human good
+1186.71,1188.6, a slight patterns
+1192.44,1196.22, and so so limited reconstitution from 
+1199.25,1201.5, category is simulate
+1202.49,1209.09, a peace by monarchies called transformation of a necklace dome it was done it was created for exhibition of
+1209.09,1212.66, fuller's work at the wine so this is the simulation that created
+1213.38,1215.03, this is the actual thing
+1216.77,1222.2, a peace by any lomas called aggregation for fruits a simulation of
+1222.41,1223.49, growth
+1224.9,1237.2, this is a peace by emotion color called the resolution will and the idea here was to agnatic algorithm to design different fabrications that balance speed of construction with detail
+1238.49,1241.07, the actual thing as built by a robot
+1241.4,1242.51, the models
+1244.34,1266.24, it's my belief that all artists and designers in the century should have an experience programming their own software nearly everyone uses soft were in the production of work even in the most traditional fields suffers a powerful tool but when a person doesn't understand how soft towards a deeper level other than using a program to retouch a photo or build a three d model but winning licking the person engaging the soft inshalla way
+1266.69,1272.45, remember men efforts we shape our tools and thereafter are to shape us
+1272.66,1279.95, say that if a person can't shape a new tool that person is shaped and moulded by another person's idea about what's after rising can be
+1280.04,1282.74, therefore their own work it's molded
+1282.8,1287.42, that person's work in the fort can be i got tripped up there at the end
+1287.57,1289.37, but i think the point came through
+1290.03,1295.19, the other book that i teach with is getting started with processing which i was a court with ben fry
+1295.61,1310.91, what i want to say about this book is the table of contents we spent many years trying to learn how to teach programming within the context of art and design programs and this is the current generation of it so when we start we talk about drawing
+1310.91,1321.71, about interaction we talk about media we do a lot of workers photography and topography we talk about motion which teach variables towards the beginning but we really get into things at the core of
+1322.01,1334.34, after the students are acclimated after they feel comfortable after their already making things they are excited about and then we get into functions objects in a rage then towards the end of the class when they really have a strong desire to be
+1334.37,1335.54, further
+1337.04,1339.92, i want to say you know i set of examples
+1340.46,1348.08, from the forming code book that relate to these examples that these ordeals we want the students to have an understanding of
+1348.59,1350.09, to start with
+1350.36,1351.5, in
+1354.02,1356.39, a very minimal example
+1356.6,1360.74, of how you can use for structure to create repetition
+1361.31,1364.22, the computer can be a tool for automated drawing
+1364.61,1365.78, diagraming
+1366.53,1367.97, example
+1371.09,1373.28, as an example of recreation
+1375.92,1386.27, were basically you have an operation where you have a dot it moves up a little bit and goes a little bit left a right and that operation continues and then at some kind of frequency you have branches come off of that
+1387.05,1390.8, things were familiar with but i'm trying to put them in the larger context of the
+1391.1,1392.42, the presentation
+1393.71,1396.26, example reiteration
+1397.82,1406.91, here we have a simple structure and we have parameters for things like height linked in with of a chair so when does it share become a table when there's a chair become
+1406.97,1408.74, other kind of former object
+1409.04,1410.54, iteration
+1413.63,1414.92, example
+1417.8,1419.24, formation
+1419.69,1430.22, here's a basic example of transacting where you loaded an image in this case that satellite data from massa and then you just use the grave value of the image to extrude things in space
+1434.09,1436.34, example to show from simulate
+1442.19,1445.82, in one of dentistical classes to
+1445.97,1447.83, produce this kind of motion
+1448.1,1456.62, so these are the kinds of stunts things that students can begin doing towards the end of the course they're doing simplest things like the first example i show at the beginning
+1461.72,1469.46, i want to talk a little bit about the program at you see and talk about it a specific initiative there in our grab program this is some of the cast of characters
+1470.99,1472.61, tis not as work
+1473.75,1477.8, masonwork he makes some really fantastic games looking interface
+1477.8,1480.47, this is graphic
+1480.65,1486.59, electronic piano that uses the conducting of graphite pencils to work
+1487.22,1490.79, nick machine for making extremely large bubbles
+1492.44,1498.05, and the way i want to show her some examples from the cellar software studio
+1498.11,1504.59, the software studios are really loose network of students across the school of art and architecture you see
+1504.77,1509.0, basically students from art design media arts architecture and music
+1509.15,1520.01, and the idea is to have these specific conversations about software as a medium and to look at different kinds of work so i want to say some example this is david wick's maso
+1520.76,1529.67, he worked with water so this is a comparison of two data sets it compares where water is falling to where water is being consumed
+1530.33,1532.49, once he's going to the year
+1532.49,1534.2, another season of the year
+1534.86,1538.28, then the other work i'm going to show from the frosted i'm going to show with video
+1546.23,1552.47, the actor if project this is the work of godfrey hater
+1554.03,1567.17, and what's not seen in his video is is not as a really important part of the project is this online system that god feed made for drawing circuits free hand
+1567.26,1580.91, call if you look at every printed circuit board in the world the one inside your computer in your phone your inboard et cetera they all look the same they're all industrialized in the same way and what god feed wanted to do was to explore an alternative for that
+1581.33,1590.54, so he made this tool that also to free hand circuits in this case he's using a final cutter to print out the copper in the top with these circuits into a different context
+1595.67,1617.93, next work by laura mccarthy and this is a new project from laura but it's based on the work that she created was she was a scale
+1617.93,1636.71, the
+1650.57,1658.16, he
+1659.42,1669.05, this is the work of recent and this is a proposal a proposal but now happening
+1669.08,1683.84, mark and this is if you this is what these conceal in los angeles which is a landmark building in the city as i by frank garry and the proposal is to actually respond to the music the happening inside the hall
+1683.93,1687.8, do dynamic images that are responding to that sound
+1687.8,1692.57, he also to be looking at the gestures of the conductor is about as well
+1692.78,1697.58, and to build the visitation based on looking at those two pieces together
+1698.57,1703.13, he's exploring essentially trying different things and seeing how it feels
+1704.06,1710.12, and this becomes then a presentation tool to that he took his name in order to win the commission
+1713.18,1717.56, the goal of these examples from the softer studios to show the diversity of things that are happening
+1717.83,1723.05, and i think different ways that software can be utilized with the innate
+1729.59,1732.02, this must be by chris riley
+1732.11,1738.47, and this piece is also about relationships in this case it's about a distance relationship
+1738.86,1744.26, chris was in the taproom he was living in los angeles and his partner was living in chicago
+1744.26,1747.71, this project was a few months of
+1747.71,1753.71, this ritual where they would take their sheets that they had used and then they send them to the other partner
+1753.77,1761.75, then they open up the box and then through skye they would have this ritual of opening the boxes and then making the bed together
+1762.86,1775.7, and so in this piece cristo next writes software he writes off a very well but for this piece he was using sort of existing infrastructure and examining how that could affect his relationship
+1779.33,1785.57, and then actually lourengo freed in david wicks are all here so i hope you can meet them also while you're here
+1785.93,1798.71, last thing i want to show is the process of the network peas which was the last software we looked at during the ten that part of the presentation before showing the process i want to show a little bit of the final exhibition
+1799.16,1804.95, this was a lineal at the dame gallery this is signal to noise projected
+1805.01,1810.44, here's network the print is centimeters by hundred centimeters
+1811.55,1818.09, a detail of that not there to print but it is aversion this is another print based on network 
+1818.87,1820.1, a detail
+1820.58,1823.43, this these pieces are called yes now
+1823.52,1829.19, and these are the four different kinds of interpretations of that simple algorithm together
+1830.15,1831.56, the details of that
+1833.24,1839.03, and then here's a little more context and then these are pieces from a prince for a peace called network sea
+1839.36,1840.86, a detail of that
+1842.21,1843.53, the detail
+1844.7,1846.41, the process
+1849.8,1851.51, a lot of windows open
+1856.73,1868.07, this was the very first piece it's very impressive it basically what i was trying to do here was to just get the notes together how did that a bill that out in a way where there distributed
+1868.13,1876.53, in a way that would be appropriate for the project and this is a piece exploring the ideas of network but in a more visual way
+1876.74,1878.54, rather than working with the data set
+1878.96,1881.24, that was this
+1881.72,1885.59, now we have the note set and now we're basically
+1886.43,1887.93, moving between them
+1888.17,1892.22, and here's how things have been laid out a little bit of more infrastructure
+1894.29,1895.67, still very minimal
+1897.02,1898.58, next
+1905.87,1918.56, at that point i tried something completely different i was looking at ciphers and looking at ways of basely taking the signatures of those and then turning those into
+1918.59,1922.49, different patterns and the next one is also based on that as well
+1922.61,1925.1, it was a left turn in the process
+1934.58,1935.99, so after that
+1937.43,1938.99, kipping and
+1941.15,1944.51, where it ended to be her started to go
+1946.25,1948.26, now we have some different
+1949.16,1953.87, contrarient speeds and we can start looking at things in a different way
+1958.01,1961.46, then this was the end of this iteration of the piece
+1961.49,1967.52, it now has a set of parameters so i can explore it and look at different things that are possible with the system that i built
+1967.67,1969.02, for example
+1969.05,1970.46, speeded up
+1970.88,1972.23, a slow it down
+1972.83,1975.77, i can look at it in a more regular fashion
+1976.43,1978.77, i can add a little bit more distortion to it
+1979.58,1985.13, and then i can look out a very large red or a small tight tighter grip
+1986.93,1990.89, that was kind of the the end of this first sketching period
+1991.34,1995.12, for sketching stage of the project and then we started i started working on it
+1995.42,1998.48, no more of a refinement mode
+1998.48,1999.56, that
+2007.27,2010.33, great we could have the light down again on the stage and you
+2028.09,2029.29, going
+2034.45,2036.46, a further iteration of that
+2039.04,2046.96, a difference here is that the lines of their moving from one note to the next directly changing colors midway and create a different perception of the piece
+2060.07,2065.5, this became a piece that made it to the exhibition it's called network 
+2066.49,2070.66, i listen run a little bit so you can see what happens with the over time
+2110.05,2111.97, so then that
+2112.12,2114.31, led to another set of work
+2114.94,2116.29, some work
+2122.14,2131.95, here in this piece was a printed piece rather than a real time piece running a software so that's one reason why it's much slower
+2134.2,2136.78, to run also for a few seconds
+2137.38,2138.88, something happens
+2155.38,2160.66, identical and networks but then after a certain amount of time the notes move
+2160.69,2163.0, and this is the result of that
+2192.01,2198.67, these are from the century show and remember the idea that show was to look really closely at different works of art from the century
+2198.67,2211.45, that is true the interest too and so these network works came out of work from the distillment like tavender and motion and so that's why they used that color polteed been using
+2211.72,2215.98, after a while i realized that if i really wanted to make these works
+2216.28,2233.83, sort of for my time in my moment and to make them more sort of personal to me i need to take more steps in order to do that and so one was as modifying the palate i think this is a far more perfect palate for now with these machines than than the one i was using before
+2234.76,2239.44, i was also influenced by playing with prisms with my five year old daughter to
+2239.59,2241.87, in looking at the light that comes out of that
+2242.11,2245.77, that was as far from the end of the project and
+2247.12,2248.92, the next thing that happened
+2248.92,2251.05, was the piece that we were looking at
+2251.89,2252.85, i
+2256.96,2259.0, the steps to get to their
+2260.77,2262.63, involved this
+2264.16,2275.08, the next part of the process after doing all this catching with code and moving from open possibilities to refinement for me is what i do the print work is to look at things in a different way
+2275.11,2281.74, here these are some of the final image or images that came out of the soft or we've been looking at
+2282.31,2284.35, i sat looking at them together
+2285.19,2288.16, in groups and i start making more decisions about them
+2288.37,2292.45, well i don't really the program for this work doesn't
+2292.45,2304.06, a tremendous amount of time what actually takes a lot of time thinking about it and looking and so in that way it's very similar although i'm writing software too how traditional studio process works
+2304.63,2308.59, in one point at restarted doing this the idea being that the modern networks
+2308.65,2310.96, i felt this just felt more appropriate
+2313.21,2316.87, so looking at those in different ratios and different proportions
+2317.32,2320.86, and then that was one step of refinement and then the next step of refinement
+2320.89,2324.13, doing that that print that we looked at an image of was this
+2324.52,2327.73, at this point it goes from creation to editing
+2328.09,2330.55, so these are images that all
+2330.61,2332.74, the result of the software
+2333.1,2335.38, so i just run through them very quickly
+2337.12,2341.2, kind of see a sense of the range and the option at that point of the process
+2342.46,2345.91, and then for my work the last step then for doing the printed work
+2346.15,2348.25, to
+2348.4,2358.03, the piece out and so to work at that scale i need to render them out at this size elyata dimension which you see here
+2358.45,2360.94, can flip through there to see those
+2362.29,2364.03, at that point
+2364.03,2368.56, they get aggregated sort of automatically in software into the small units
+2369.16,2371.17, pieces of the final print
+2371.2,2376.57, then i run that though the software once more to state the full hundred sixty by one meter printed the end
+2378.04,2386.14, so that's the tourist through that one piece and the course of the same thing happens for all the other pieces that i showed in the exhibition and the prior software work
+2386.59,2412.63, talking about the studio i wanted to set out the talk by showing what the traditional art studio sort of feels like and how that working happens and then to juxtaposed that with the software studio and working with the immaterial while i think the materials are radically different and we do things in software that ere sort of unimaginable and prior media i think the way of working and the process is actually nearly identical
+2412.66,2428.41, so that's the end of the resignation thanks very much he

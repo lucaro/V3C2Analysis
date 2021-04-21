@@ -1,0 +1,67 @@
+start,end,text
+0.09,53.37, oh every one this is eager for danton in this amethyst where helen how to make a waving flag and that this toil goes out to the artist containing the using very colorful language in a thread at the gate the particular tool that we need for this job is actually still in the persian town which for some reason i thought was removed but he was right i was wrong but a look at the waving flag susan example of what you can do in the trading waving flag this kind of a look was popular for a while to lower thirds in sporting events now idolators other than wildcatters
+53.43,56.25, across the flag
+56.34,90.36, one of the forces is wind that makes the flag flap and it's fairly random and of course to fly i always position itself so it said moving down stream through the wind this particular force is possible to simulate in this the other force is the force of gravity which pulls the flag down and that something that we can simulate in these the type of flageolet is not tameless but it would be useful for some obligations as i mentioned lower cherishing of that nature the tools that we need for this exercise are fatal noise generator
+90.96,120.09, and that at this point if you're not familiar with fractionator you would be worth while to check out and to toil i did a little while ago called fog and smoke and i will use fractionator to create fog and smoke effects in the sand another useful to toil would be the one on creating compositors everything we do in her will do it within a three context so you need to know how to work in casarico of the without what were set achieve is very simple
+120.15,137.07, let's look at each one pieces in her too that will select the note and click letter v on the keyboard this is just a flag and it could be any picture it could be moving video is here is a rendered cash of the fatal noise which creates the motion of the flag
+137.88,142.05, tis not here combines these two things into
+142.32,143.73, a flag
+144.69,161.91, reads most of the heavy lifting so we'll look at that first will take it from up there ringtown here connect the output of the notes to the alps of the of the tree and so far i think good we seem black because nothing is going into the three delvile take our flag
+162.27,169.62, i put one so here his flag is coming through an altered and declined to
+170.97,176.43, the effects and we're going to set up a couple of things in here first of all in the
+176.73,179.07, i mention environment
+179.13,194.25, and our virtual camera and we can set the surface properties which is important for waving flag because without highlights and shading you wouldn't really see much of the vaults and to do that will select the object which is now
+194.25,201.15, and click of the first button which would bring up to the surface properties for the for this particular input
+201.42,209.28, enable lighting to see that we actually able to lift the thing up lionel icon which allows me to see
+210.0,216.99, i move slightly conceits lighting up the object teatime at this point i'm going to lift the light up
+217.44,226.83, it click and adeline to have two lights were going to change the intensities of these two lights toilet the top one percent
+227.49,231.09, and i also make this one
+231.45,238.35, slightly blue and a man a set the bottom one at the per cent maybe will alter those values later will see
+238.35,275.19, select the object and quicken the second button down that has an icon of page peal at sincerity after so this is what we can change the displacement mapping for this object and the place the mapping the caique with geometry of an object is altered by gray scale image fed into in this case really devoted to do this we actually to feed a black and white man there will do the warping of the image the rome built in this place for effects like page colepeper ripple
+275.22,295.2, to some extent to create a base tiles looking flag we will create the concentric ripples in the dating from the center but we will leave this in of the pulsation so we can feed another image in their so i would a plus a palisados and go back to our tree and that we're going to take another graphic effect down here
+295.74,302.55, black generator into the graphic oblectant up brush thrown off the field
+303.27,306.09, that's great large brush
+306.24,310.8, and the color is white chopin with white over black
+313.14,314.67, to
+315.51,325.8, selected three can write lick and say adroit and in puisortok for this is letter a on the keyboard
+325.8,330.36, the output of the graphic and to the elected imputes to
+330.57,337.26, and the dovelike the three so now you see what's going on this there are two
+337.65,341.22, sanderson here we can actually
+341.28,345.9, select a stroke in deleted its not consequential for what we do
+346.59,349.65, now we'll let the mining flag
+349.8,351.81, the properties
+352.59,356.46, and as displacements textured select input to
+357.24,358.89, you can see
+359.37,361.47, the shape that we created
+363.27,370.89, now creating in boston in our flag it's made rough because the filtering is set to be loyal but the free
+370.92,374.82, change detailed values to 
+375.51,387.54, fairly smooth like shape so that's the idea if the black and white mats were feeding in the three devastated assimilate with the flag that will cause the flag to move
+387.96,416.07, look at these other values that we can adjust a good to select the flag and will knock down to detail to five and five which will allow you to move a little faster here the scale amplified the extrusion effect member white will produce fully extruded shapes black wonota fect the geometry at all and everything in between will stretch between the maximum extrusion and no exertion at all but we can multiply that with the scale factor
+416.13,432.72, so will create that and put back to them a reasonable amount may be twelve offset actually moves zero value base excepted was i believe at fifty by the fault and you could see the difference
+432.72,435.93, position between the flag and the bounding
+436.05,449.16, if i put off the back to zero you'll snap it will snap in and lastly softness we can make the singer sharp or we can add a whole bunch of selfness which will smooth out the relief
+449.22,457.17, now see the walls of the excursion were not as sharp as they used to be example if you were to bring in topographical
+457.41,470.85, that you can use selfness to improve the model by softening over adjacent samples than we have the surface properties with the object and as we saw learnable lighting allows us to see shady
+470.91,474.66, this is what the same thing looks like with lighting the sable
+474.99,488.67, it's difficult to see what's going on on the geometry is there you can if you see the profile of new you can see that the thing is raised but until you enable to shading it you really can't see it this is a color of specular highlight
+488.91,495.57, she makes pechihli read what that does this is the missive colour of the object itself
+495.57,501.75, to object glowing from within he probably want to have that in a fairly low level
+502.02,507.72, and shines fetched of the object is as a low value of one
+508.14,509.97, value of
+510.12,515.16, for more metallic looking objects may it not too high for this one or
+516.51,518.55, it's a little better
+518.82,521.79, see how that affects
+522.27,523.8, eight
+523.83,540.3, to look at a fact to lois now alicompayne bring it down here will connect the output of the frightful noise to our output note would go to tweak a couple of privates to make it more flag like a table clock the tractor and the getting messages you have an idea what i'm doing or out
+540.48,579.51, not up there so these two things are the only thing were concerned would right now are the number of octavianus the aristotelic smoke which is not going to help us win the flag so we did need a lower number but for the complexity of the wave surface and the randomness it gets more than one octave and two point one worrier well i think the base animation velocity is what makes the fact noises high number will make it move fast lumberman i will try it five will ethel
+579.51,584.34, killing a hand the losers at the default settings
+584.49,596.67, move to the transformed to its worshipper for the flag if you want to make it appear as if the waves booming from the left right we're going to keep him at the exposition at zero
+596.94,624.93, and love some numerals and increases value to what try twelve minutes largely trial in air to find a speed that works on will keep him that were whitelocke key and courtier and which in a strophe time on the seat this works well i think i need to create the number quite a bit so i try antedate ten times more he framed that and now i could see this a sense after texture moving from laterite push play
+625.44,627.9, you could see it moving to the right 
+628.44,657.54, another thing we're going to do is will change terkaleon odorata we have thericlean everything else we can leave in the fault the colourless black and white we can play with a density in offset later but for now this is good so wherethrough i i will not walk the property affections and put this back here and connected in place the graphic snow into the potentate the alphabet
+657.9,670.95, i select the object which by the way now i started you can see a little bumps of valleys in the flag i will move detailed back to one and one and if you put a higher softness
+671.16,692.67, over these bumps who go back to the tree at this point i'm going to play with the fact of lances how changes here a fact or flag so for example in force in brocatelle wave surface eskimo turbulent with high frequency waves put the back to two point one that will play with the active
+692.67,698.79, weight and acted caliasites face pulled his number down
+698.94,717.99, to transform let's try to set to the work scale to this gives us will be expectable flag at least availed cartilage to have a nearly parallel wave front across the surface of the flag it render this as what it looks like one of the place back in the tent
+719.16,745.41, kind of a slow motion flag and death can be easily just at losing the baseman hosiery just to see how that works so instead of our point five at goodford make really fast and also if he advanced the second keep an of the translations that he twenty let's say five habits for the keener that that's a kind of getting there
+746.88,764.34, in the end if you feel like i was allowed to instructor i didn't want much or simply you don't have time to mess with the fatal note parameters her clients sitting behind you you can just go to h d had to comb and download the way the black precepts

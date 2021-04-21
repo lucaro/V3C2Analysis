@@ -1,0 +1,103 @@
+start,end,text
+0.09,44.79, hi this is eager from each had not come i have recently re discovered my love for avidius three d d e and although its slightly outdated is still capable of producing interesting looks in this autorial i created something that you would typically use made program like light without mama any program like that to create a three dimensional logo in a metal plate remarkable thing about this effect is that it is one per cent produced using native tests without a single third party plugging and this includes stones everything you see in this piece can be created using abides person seven point six possibly even older stunned the latest is and i say everything except for the audio so let's look at what i'm talking about
+44.85,47.37, he
+51.6,56.19, look at the pieces and here we have a metal plate with a bumpy texture and a reflection in it
+56.37,60.51, reflection moving we have to lay beans etching the loo
+61.02,64.68, little glow and blur where the pit the metal surface
+64.89,79.83, we also have smoke rising from the surface we are not going to build its effect from scratch because it would take too much time for the tutorial but what we're going to do instead is the settite over here and see how each one the pieces works
+79.83,94.44, treat me some complicated at first but when we start breaking it into individual pieces you will get a preceding of it let's look at the first thing which is the solid color that gives the base for a metal then we have the noise the gives metal its little bumps
+94.44,96.3, through the war of course
+97.11,98.91, and we have
+99.66,104.13, text that has a hole in the middle all these pieces combined
+104.13,105.63, give us this
+106.38,124.74, next thing up we have a couple of red later lines and practise when we combine these two we get this survey interrupted laser eliminating particles in the air and with a little bit of optical glow because see how the glow is dense with the red color is stronger
+125.25,129.45, the blow off and on of an
+130.2,133.98, when lars combined with the metal we get that
+134.52,139.74, and then we add a little bit of low and blur where the laser hits the metal
+143.73,150.9, then we have three tractor noise generators when combined those three look like that
+153.9,156.39, we shape those up into
+157.26,162.0, a little puff of smoke and when that's combined with our peace
+164.52,166.2, we get the final product
+166.74,174.21, not tapped into each one of these notes to see what's going on in actually i'm not going to disturb the overall tree i will just create
+174.27,192.06, offshoots let's load three teevan were going to feed the metal color into the important the metal collar was just a solid color that we saw earlier will step inside the three by double quicking first thing we do is we select the layer which is our purple background licensure property editor
+192.42,194.79, enable lighting for the surface
+194.97,197.88, now if i wrote at the camera
+198.51,200.01, can see
+200.31,212.34, that it's a treat mention object that's lit by a single life that's the default light in the scene next thing over the surface is property editor will be on environment and pick sat in a state ottocar
+212.52,215.37, you could see that it's reflecting
+215.52,221.7, one of these built in environments reflection maps and you can choose their bunch of different ones
+222.3,227.07, you can even feed you on if you add another imputed
+229.23,232.74, thing we're going to do is we're going to add the graphic
+234.81,236.25, delia
+237.06,240.39, kestrike get back out
+240.84,246.54, let three television the keyboard to add another input at connect graphics into
+248.61,261.18, go back to treat if you uncle ab slayers the dev connected to impart which we don't really need you can select it and deleted by present lead of the keyboard where we do need is
+261.27,267.15, selectively purple middle plate and good property editor and under this placement texture
+267.15,268.8, select into
+269.1,271.95, so now what's going on is recreating
+272.22,280.98, the placement with those three restricts recreated the graphic displacement looks really rough but we can fix it first thing we'll do is
+281.07,288.39, place of the doctor the crease softness to one hand increased detail to ten and ten
+289.38,311.67, now you see it much more defined brooke and this restores projecting out of the background and we can change at spiering the black and white values of the image that were feeding inside so so everything it's white will pop out there in its black stays back and the amount of extrusion is determined by the scale factor so put this to point twenty five see
+311.76,316.05, tiny little bump coming out of the projecting towards us
+316.17,326.37, change the direction of the extrusion by either inverting these black and white values in the graphic or for a quick fix we can just go to negative precept
+326.4,336.15, in here and as you can see now the whole is being edged inside of the surface as he saw earlier or metal plate also had little bumps and hears a noise
+336.42,338.34, and if you feel
+338.55,362.16, the noise instead of odes rostocker nicosia has his bumper and if i disabled the blur that we get a lot sharper surface so that's why i keep the blue to round off the bumps now the problem is if there's only one in put the goes into this displacement maps are choices to either feed the bumps or the log but how do we do both well let's see
+362.43,378.9, here in the original effect the thing for the log is composite over the noisy background a little hard a seat but they see these parchment like white noise behind the black log and if i take the output of this composite
+378.96,394.14, faded into impersonated and some that you can see a fine little bump texture along with the etching of the log the amount of bumps is determined by the amount of mix of the noise in this composite so if i add more
+394.26,403.83, see how its surface is getting bump here now it's pretty bumpy that much as we can go in this case without changing levels in the noise itself go inside a thread brought the our camera
+407.67,411.15, confect of the bumps along with the local
+414.27,420.18, is the handwriting effect i will add another graphic present double pace
+420.3,435.33, pace or fine logan the several different ways you can create the handwriting one of them is to paint over the letters with a brush the kind of cover the letters but not too thick and i will do that in the order in which i would write this so will start here
+439.53,441.75, do
+443.1,443.97, the
+444.42,449.31, you can see i have several new free hand strokes out here i will select them all
+449.94,451.89, go to objects
+452.22,457.38, handwriting let's turn off to bounding boxes i can see it better as i change 
+458.64,470.43, out of heads and tails i can make this thing right now you see that each one of the strokes he starting at the same time and to overcome that i'll go back to gothic objects
+470.61,472.26, in strokes
+472.5,473.73, now
+474.36,484.38, writing from a top and you can imagine how how you can use this to mask the war of course you would have to do this backwards you don't have to write it backwards you could just animate it backwards
+485.58,489.51, let's see how the leaders are created will add another graphics
+492.57,498.48, the line too it's go with the tin line maybe five damarus self his profile to
+498.63,505.65, how partisans as far as the masks let's paint on red and alpine red channel and alpha
+505.68,511.35, here is a line it stretches across a screen just a simple red line with a corresponding alpaca
+511.38,512.55, back out
+513.45,549.03, the fact aloysius coen piece this one here the gods to have a good ratio of black and white areas so where we have black the laswell be invisible and instead of fishing for the other piece of sintimint multiple select a composite and optical glow capitol sea and patiently and will feed the fact of loisette bottom and the graphic and the top and as you can see now our line has loiterin in it if you need to eat a sickness of the laser go back to the graphic and khrushchev
+549.09,567.45, bothers you later now the optical glow and a nice soft glow to the laser and if you look at the elfish nel you'll see that there's a ochanee out with it so i will compose whatever we fetter so let's try to combine our pieces together will do a little bit clean up a menomonee tree appear
+567.9,571.8, move the town here this is an old graphic sing we no longer need
+571.86,574.74, i'm going to steal this composite
+575.52,576.66, the
+578.31,590.34, going to the bottom and up to a glow to gournay can see a layer over the metal plate let's quickly animates the strokes so select antistrophe objects
+590.52,609.12, by stroke go back to objects in writing and with the combined to selected lilliesford which has created an animated and writing stroke over the entire length of the object which is for seconds and that we need me to make this pastoral do is make sure the object select a good to the animation editors select all the channels
+609.42,615.27, make it nears the speed is caused him and i'm going to retire and by moving the last key from towards the beginning
+615.3,621.3, now we have a more reasonable speed of writing that's another to animate the laser will look on the graphic
+621.93,629.61, said the graphic you see the red line over black you don't see entire composite in order to do that we're going to step out
+630.75,636.63, connect the appetite composites to the alternate step back into the graphic
+636.81,637.8, and
+638.04,648.06, select connect your top time line and not cause both elements in context and to animate delays or now simply enable automatic key framing down with the 
+648.81,651.42, and just step through your peace
+652.44,653.58, moving
+655.2,658.32, wherever the stroke goes
+659.94,661.53, the idea
+662.01,679.5, i will make a little bower and glow wherever the lads are his to meddle will copy and pace the existing burned low it is his to graphic effect and placed between our composite append the bulletins as you can see the already two little dots
+679.53,684.72, existing effect it will make our own place of little circular breaststroke
+685.23,686.22, selected
+686.52,694.92, come and change it to stack effect and inside the stack effect will add a couple of dodging breezes
+696.75,699.57, one of them will set for mid towns
+700.83,702.15, one of them
+702.6,703.98, light
+704.28,707.85, experiment with these whatever works for you
+707.85,711.03, close two boxes and a blur
+713.55,714.96, that the amount of her
+717.6,728.13, papa i'll make roller little wider is to smudge in a majestic way and then on top of this but adds color blind just to give it a little bit of a tent
+728.46,734.31, that to whatever color works faith if i step through the effect a conceited existing
+735.09,750.06, saronia ed but they also changed sides in a pasty which he can easily animate sefele one of these existing ones you can see over here you are pasty graft the thing is changing capacity to give it a ingesting look so that's it for her and lo
+750.3,789.63, meaning thing is the smoke effect and if you look at one of the oldest trials cold fog and smoke noticed that this whole section over here to left was actually lifted from that tutorial except for the foreman spoke shape and some other to get in a great moneta how this is created you should you should watch the partin spoke to trial but basically say that the three faces generators that generates the different levels and frequencies of the smoke just to give it a more a feeling of a volume than their war operators and two of these to give it a more turbulent felscombe altes here and you can see how
+789.78,801.0, the moving in more than just one direction giving it more of a natural organic feeling of a smoke and for this purpose we also added this map smoke shape which is basically a match shape that animated
+801.9,809.7, nothing elaborate or realistic either but it works pretty well it allows the smoke to start off his small dark and then expand
+809.79,811.86, see what he looks like a real time
+814.26,851.73, the beginning of the trial i mentioned that even the sound is made within the to see how that stone was like one of these tartrate of them one for the left channel and for the right channel this one is simply a animantia expressions may be to meet expressions parts to or something like that you will see how he can use expressions to create sounds have at the
+851.82,853.65, it oratorial
+854.1,856.26, you can also go to
+856.26,865.74, he had not come on down this whole present to see how it works it's a good thing actually you can plug it in and start changing values iagoo way to learn
